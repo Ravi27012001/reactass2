@@ -1,0 +1,42 @@
+html{
+    
+    background-color: chocolate;
+}
+h1{
+    font-size: 50px;
+    text-decoration: underline;
+}
+.class2{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+.class3{
+    text-align: center;
+    vertical-align: middle;
+    height: 40px;
+    width: 250px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.class4{
+    height: 50px;
+    width: 300px;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: aquamarine; 
+}
+.class4:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+#container{
+    position: relative;
+    top: 40px;
+    display: flex;
+    display: inline-block;
+    background-color: darkgray;
+    border: solid 2px black;
+    
+}
